@@ -9,7 +9,6 @@ This project powers the Sri Balaji Estates website, showcasing DTCP-approved ope
 ---
 
 Technology Stack:
-- Frontend framework: Next.js / React / Vue / plain HTML (adjust as per actual setup)
 - Languages: JavaScript / TypeScript / HTML / CSS / SCSS
 - Styling/UI: Tailwind CSS / custom CSS
 - Hosting: Vercel
@@ -18,7 +17,7 @@ Technology Stack:
 
 Setup & Run Locally:
 1. Clone the repo:
-   git clone https://github.com/YOUR_USERNAME/sribalajiestates.git
+   git clone https://github.com/NithinThotapalli/sribalajiestates.git
    cd sribalajiestates
 
 2. Install dependencies:
